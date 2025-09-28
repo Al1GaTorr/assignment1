@@ -1,4 +1,4 @@
-package com.zhanibek.algorithms;
+package com.ali.algorithms;
 
 import java.util.Random;
 

@@ -16,13 +16,13 @@ mvn clean install
 ```
 ## Run
 ```bash
-java -cp target/assignment1-1.0-SNAPSHOT.jar com.zhanibek.algorithms.Main <algorithm> <size>
+java -cp target/assignment1-1.0-SNAPSHOT.jar com.ali.algorithms.Main <algorithm> <size>
 ```
 ### Examples
 ``` bash
-java -cp target/assignment1-1.0-SNAPSHOT.jar com.zhanibek.algorithms.Main quicksort 10000
-java -cp target/assignment1-1.0-SNAPSHOT.jar com.zhanibek.algorithms.Main mergesort 5000
-java -cp target/assignment1-1.0-SNAPSHOT.jar com.zhanibek.algorithms.Main closest 100000
+java -cp target/assignment1-1.0-SNAPSHOT.jar com.ali.algorithms.Main quicksort 10000
+java -cp target/assignment1-1.0-SNAPSHOT.jar com.ali.algorithms.Main mergesort 5000
+java -cp target/assignment1-1.0-SNAPSHOT.jar com.ali.algorithms.Main closest 100000
 ```
 ## CI/CD
 The project uses GitHub Actions to run JUnit5 tests automatically on each commit.

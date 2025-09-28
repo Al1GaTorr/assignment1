@@ -1,4 +1,4 @@
-package com.zhanibek.algorithms;
+package com.ali.algorithms;
 
 public class Metrics {
     private long comparisons = 0;

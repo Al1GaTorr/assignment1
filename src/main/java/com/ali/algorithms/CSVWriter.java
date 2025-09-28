@@ -1,4 +1,4 @@
-package com.zhanibek.algorithms;
+package com.ali.algorithms;
 
 import java.io.File;
 import java.io.FileWriter;
